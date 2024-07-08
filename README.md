@@ -16,7 +16,7 @@
 ---
 ### :man_technologist: Acerca de mi :
 Soy un programador y analista de datos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Argentina.
-- :telescope: Actualmente me encuentro cursando el último año de una tecnicatura universitaria en programación y finalizando la carrera de Data Analytics en CoderHouse.
+- :telescope: Actualmente me encuentro cursando el último año de una tecnicatura universitaria en programación y formandome en Análisis de Datos.
 - Pueden encontrar mis proyectos en la siguiente web: https://gastongil.netlify.app/
 
 ---

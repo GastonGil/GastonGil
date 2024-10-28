@@ -15,8 +15,7 @@
 
 ---
 ### :man_technologist: Acerca de mi :
-Soy un programador y analista de datos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Argentina.
-- :telescope: Actualmente me encuentro cursando el último año de una tecnicatura universitaria en programación y formandome en Análisis de Datos.
-- Pueden encontrar mis proyectos en la siguiente web: https://gastongil.netlify.app/
+Soy un visualizador y analista de datos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Argentina.
+- :telescope: Soy un apasionado por descubrir el potencial oculto de los datos y transformarlos en insights que marquen la diferencia.
 
 ---

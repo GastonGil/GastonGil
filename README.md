@@ -17,5 +17,6 @@
 ### :man_technologist: Acerca de mi :
 Soy un visualizador y analista de datos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Argentina.
 - :telescope: Soy un apasionado por descubrir el potencial oculto de los datos y transformarlos en insights que marquen la diferencia.
+- Hoy ofrezco mis servicios a clientes finales y consultoras, ayudando a optimizar sus procesos con un enfoque que abarca desde el origen de los datos hasta su visualización. Me adapto a las necesidades de cada cliente, ya sea creando dashboards desde cero o realizando mejoras y cambios en proyectos existentes, siempre con el objetivo de maximizar el valor de los datos.
 
 ---
